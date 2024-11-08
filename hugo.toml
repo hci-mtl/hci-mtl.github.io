@@ -1,0 +1,17 @@
+baseURL = 'https://JRegimbal.github.com/HCI-Help-Desk'
+defaultContentLanguage = 'en'
+theme = 'hugo-flex'
+contentDir = 'content'
+
+[languages]
+    [languages.en]
+        languageName = 'en'
+        languageCode = 'en-CA'
+        title = 'HCI Group Montreal'
+        weight = 1
+    [languages.fr]
+        languageName = 'fr'
+        languageCode = 'fr-CA'
+        title = "Groupe d'IHM de Montréal"
+        weight = 2
+
