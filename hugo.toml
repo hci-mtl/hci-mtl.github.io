@@ -1,17 +1,20 @@
 baseURL = 'https://JRegimbal.github.com/HCI-Help-Desk'
 defaultContentLanguage = 'en'
-theme = 'hugo-flex'
+theme = 'ananke'
 contentDir = 'content'
 
 [languages]
     [languages.en]
         languageName = 'en'
         languageCode = 'en-CA'
-        title = 'HCI Group Montreal'
+        title = 'HCI Help Desk'
         weight = 1
     [languages.fr]
         languageName = 'fr'
         languageCode = 'fr-CA'
-        title = "Groupe d'IHM de Montréal"
+        title = "Service d'assistance HCI"
         weight = 2
-
+        
+[params]
+    [params.ananke]
+        show_recent_posts = false
