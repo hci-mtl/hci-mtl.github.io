@@ -1,4 +1,4 @@
-baseURL = 'https://JRegimbal.github.com/HCI-Help-Desk'
+baseURL = 'https://hci-mtl.github.com'
 defaultContentLanguage = 'en'
 theme = 'hugo-theme-zen'
 contentDir = 'content'

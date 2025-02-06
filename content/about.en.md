@@ -7,7 +7,7 @@ Our goal is to connect early-career HCI practitions to meaningful projects that 
 
 ## What are your backgrounds?
 
-Our group includes a handful of Masters and PhD students at McGill University and Polytechnique Montréal working on a variety of different topics. Do not hesitate to contact us with questions outside these areas!
+[Our group](./personnel) includes a handful of Masters and PhD students at McGill University and Polytechnique Montréal working on a variety of different topics. Do not hesitate to contact us with questions outside these areas!
 
 * Accessibility
 * Aviation
