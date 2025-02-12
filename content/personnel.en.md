@@ -7,3 +7,4 @@ Here are brief biographies of some of our current members:
 * Benjamin Berton is a trained ergonomist and PhD student at Polytechnique Montréal specializing in human factors in aviation. His research focuses on leveraging cognitive modeling to enhance human-AI teaming.
 * Venissa Quadros is a Master's student at McGill University. Her interests include haptics and assistive technology.
 * [Juliette Regimbal](https://www.julietteregimbal.ca) is a PhD candidate in electrical engineering at McGill University interested in haptics, creativity support, accessibility, and software architecture.
+* Marie Audouard is a Master's student at Polytechnique Montréal interested in human-computer interaction and design. She is working on developing a dashboard for a Machine Learning model predicting emergency department congestion.
