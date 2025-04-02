@@ -3,7 +3,7 @@ title: About Us
 ---
 We are a group of graduate students who offer **human-computer interaction** assistance to individuals and non-profit organizations in Greater Montreal. When contacted, we assess the situation and one of our members may provide guidance or hands-on support to the extent they are able.
 
-Our goal is to connect early-career HCI practitions to meaningful projects that could benefit from their expertise.
+Our goal is to connect early-career HCI practitioners to meaningful projects that could benefit from their expertise.
 
 ## What are your backgrounds?
 
