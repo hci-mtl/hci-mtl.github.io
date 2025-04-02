@@ -37,4 +37,4 @@ This service is offered free of charge by our volunteers. Because of this, we ca
 
 ## I know something about HCI! How can I get involved?
 
-Please reach us at [todo].
+Please reach us at [hcimtl.helpdesk@gmail.com](mailto:hcimtl.helpdesk@gmail.com).
